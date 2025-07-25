@@ -1,7 +1,7 @@
 ## Terms of Service
 
 ### 1. Acceptance of Terms
-By using the Evo Economy (the "Bot"), you agree to comply with and be bound by these Terms of Service ("ToS"). If you do not agree to these terms, please do not use the Bot.
+By using the Evo (the "Bot"), you agree to comply with and be bound by these Terms of Service ("ToS"). If you do not agree to these terms, please do not use the Bot.
 
 ### 2. Description of Service
 The Bot provides various features and services related to managing and interacting with a virtual economy within Discord servers (the "Service"). These features may include, but are not limited to, earning, spending, and transferring virtual currency.
